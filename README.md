@@ -1,6 +1,6 @@
 <H3>Name : NAVIN KUMAR J </H3>
 <H3>Register no. 212222240071 </H3>
-<H3>Date</H3>
+<H3>Date: 20.09.2024 </H3>
 
 # Experiment No. 2 
 
